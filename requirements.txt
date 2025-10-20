@@ -5,6 +5,12 @@ psutil==6.0.0
 tqdm==4.66.4
 scipy==1.13.1
 pyarrow==14.0.1
-pl4reader==0.2.1
+mat4py
+h5py>=3.10      # leitura HDF5 (MAT v7.3)
+mat73>=0.63.0   # leitor prático para MAT v7.3
+pymatreader>=0.0.32  # leitor “universal” v4/v5/v7.3
+matplotlib
+
+
 
 
